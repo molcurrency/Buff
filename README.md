@@ -1,7 +1,11 @@
 # Buff
-
 [![Download](https://api.bintray.com/packages/nukc/maven/Buff/images/download.svg)](https://bintray.com/nukc/maven/Buff/_latestVersion)
 [![Build Status](https://travis-ci.org/nukc/Buff.svg?branch=master)](https://travis-ci.org/nukc/Buff)
+
+Please choose another library:
+- refresh -- [DistRefreshLayout](https://github.com/nukc/DistRefreshLayout)
+- load more -- [RecyclerAdapter](https://github.com/nukc/RecyclerAdapter)
+- show state -- [StateView](https://github.com/nukc/StateView)
 
 The buff can reduce your development time, has the following features (support api >= 8):
  > - pull down to refresh
